@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mnorty/mnorty.github.io/static/css/main.37bcadc7.chunk.css",
+    "main.js": "/mnorty/mnorty.github.io/static/js/main.0333dcec.chunk.js",
+    "main.js.map": "/mnorty/mnorty.github.io/static/js/main.0333dcec.chunk.js.map",
+    "runtime-main.js": "/mnorty/mnorty.github.io/static/js/runtime-main.c4c21660.js",
+    "runtime-main.js.map": "/mnorty/mnorty.github.io/static/js/runtime-main.c4c21660.js.map",
+    "static/js/2.4d7cb9b7.chunk.js": "/mnorty/mnorty.github.io/static/js/2.4d7cb9b7.chunk.js",
+    "static/js/2.4d7cb9b7.chunk.js.map": "/mnorty/mnorty.github.io/static/js/2.4d7cb9b7.chunk.js.map",
+    "index.html": "/mnorty/mnorty.github.io/index.html",
+    "static/css/main.37bcadc7.chunk.css.map": "/mnorty/mnorty.github.io/static/css/main.37bcadc7.chunk.css.map",
+    "static/js/2.4d7cb9b7.chunk.js.LICENSE.txt": "/mnorty/mnorty.github.io/static/js/2.4d7cb9b7.chunk.js.LICENSE.txt",
+    "static/media/About.css": "/mnorty/mnorty.github.io/static/media/Orchard.52d5fcfa.jpg",
+    "static/media/Science.012f7599.svg": "/mnorty/mnorty.github.io/static/media/Science.012f7599.svg",
+    "static/media/Seeking.ea627a09.svg": "/mnorty/mnorty.github.io/static/media/Seeking.ea627a09.svg",
+    "static/media/VectorWhite.b4f5a3f5.png": "/mnorty/mnorty.github.io/static/media/VectorWhite.b4f5a3f5.png",
+    "static/media/WhiteHeart.0edb0327.svg": "/mnorty/mnorty.github.io/static/media/WhiteHeart.0edb0327.svg",
+    "static/media/Home.css": "/mnorty/mnorty.github.io/static/media/nicewall.3856317a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4c21660.js",
+    "static/js/2.4d7cb9b7.chunk.js",
+    "static/css/main.37bcadc7.chunk.css",
+    "static/js/main.0333dcec.chunk.js"
+  ]
+}
