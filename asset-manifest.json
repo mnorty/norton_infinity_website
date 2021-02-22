@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/norton_infinity_website/static/css/main.79c09dd3.chunk.css",
-    "main.js": "/norton_infinity_website/static/js/main.0333dcec.chunk.js",
-    "main.js.map": "/norton_infinity_website/static/js/main.0333dcec.chunk.js.map",
+    "main.css": "/norton_infinity_website/static/css/main.36e9cde2.chunk.css",
+    "main.js": "/norton_infinity_website/static/js/main.44f55ccb.chunk.js",
+    "main.js.map": "/norton_infinity_website/static/js/main.44f55ccb.chunk.js.map",
     "runtime-main.js": "/norton_infinity_website/static/js/runtime-main.c09d8c27.js",
     "runtime-main.js.map": "/norton_infinity_website/static/js/runtime-main.c09d8c27.js.map",
-    "static/js/2.4d7cb9b7.chunk.js": "/norton_infinity_website/static/js/2.4d7cb9b7.chunk.js",
-    "static/js/2.4d7cb9b7.chunk.js.map": "/norton_infinity_website/static/js/2.4d7cb9b7.chunk.js.map",
+    "static/js/2.5bd071e6.chunk.js": "/norton_infinity_website/static/js/2.5bd071e6.chunk.js",
+    "static/js/2.5bd071e6.chunk.js.map": "/norton_infinity_website/static/js/2.5bd071e6.chunk.js.map",
     "index.html": "/norton_infinity_website/index.html",
-    "static/css/main.79c09dd3.chunk.css.map": "/norton_infinity_website/static/css/main.79c09dd3.chunk.css.map",
-    "static/js/2.4d7cb9b7.chunk.js.LICENSE.txt": "/norton_infinity_website/static/js/2.4d7cb9b7.chunk.js.LICENSE.txt",
-    "static/media/About.css": "/norton_infinity_website/static/media/Orchard.52d5fcfa.jpg",
+    "static/css/main.36e9cde2.chunk.css.map": "/norton_infinity_website/static/css/main.36e9cde2.chunk.css.map",
+    "static/js/2.5bd071e6.chunk.js.LICENSE.txt": "/norton_infinity_website/static/js/2.5bd071e6.chunk.js.LICENSE.txt",
+    "static/media/Style.css": "/norton_infinity_website/static/media/Orchard.52d5fcfa.jpg",
     "static/media/Science.012f7599.svg": "/norton_infinity_website/static/media/Science.012f7599.svg",
     "static/media/Seeking.ea627a09.svg": "/norton_infinity_website/static/media/Seeking.ea627a09.svg",
     "static/media/VectorWhite.b4f5a3f5.png": "/norton_infinity_website/static/media/VectorWhite.b4f5a3f5.png",
-    "static/media/WhiteHeart.0edb0327.svg": "/norton_infinity_website/static/media/WhiteHeart.0edb0327.svg",
-    "static/media/Home.css": "/norton_infinity_website/static/media/nicewall.3856317a.svg"
+    "static/media/WhiteHeart.0edb0327.svg": "/norton_infinity_website/static/media/WhiteHeart.0edb0327.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c09d8c27.js",
-    "static/js/2.4d7cb9b7.chunk.js",
-    "static/css/main.79c09dd3.chunk.css",
-    "static/js/main.0333dcec.chunk.js"
+    "static/js/2.5bd071e6.chunk.js",
+    "static/css/main.36e9cde2.chunk.css",
+    "static/js/main.44f55ccb.chunk.js"
   ]
 }
